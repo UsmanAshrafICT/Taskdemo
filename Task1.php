@@ -1,5 +1,5 @@
 <?php
-class DB{
+class DB{fdgdfgdfg
     public $server;
     public $user;
     public $password;
